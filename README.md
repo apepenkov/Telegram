@@ -1,6 +1,6 @@
 ## Telegram messenger for Android
 
-## Edited by @apepenkov to allow 100 accounts. Noithing else added/changed.
+## Edited by @apepenkov to allow 100 accounts + add +1 download/upload connection to improve files speed.
 
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
